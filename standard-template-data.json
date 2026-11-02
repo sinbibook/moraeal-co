@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.0.0",
-    "generatedAt": "2026-11-02T09:59:53.649521017Z",
+    "version": "1.1.0",
+    "generatedAt": "2026-11-02T10:09:15.952013537Z",
     "templateType": "trip_a",
     "propertyId": "faed46a0-24a4-4c83-a65f-77e671b7c3b3",
     "homepageId": "01a18d6f-82cf-7d2f-816a-8810bb4ab37f"
@@ -22,7 +22,7 @@
     "checkin": "15:00",
     "checkout": "11:00",
     "checkInOutInfo": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 오후 10시 이후 입실 시 사전문의 (필수)",
-    "usageGuide": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 오후 10시 이후 입실 시 사전문의 (필수)\n\n[인원추가정보]\n[연령기준]\n- 성인: 7세 이상\n- 아동: 24개월 이상~7세 미만\n- 유아: 24개월 미만\n\n[추가요금]\n- 결제방법: 후결제(현장결제)\n※ 영유아 인원수 포함 / 최대인원 초과불가\n\n[개별바베큐]\n- 바베큐 형태: 숯불(실외), 자이글(실내)\n- 이용 객실: 전 객실 (101호, 102호, 103호, 201호, 202호, 203호, 204호)\n- 이용 요금: 자이글 대여: 10,000원(1객실당) / 숯불: 2-3인 기준 20,000원, 4-5인 30,000원 (숯 추가 10,000원) (1박기준/현장결제)\n- 신청 시간: ~20:00\n- 이용 시간: 입실후~22:00\n- 동계 시 이용 가능\n※ 우천 시 이용 문의\n※ 사전 문의 후 이용 가능\n\n[공용수영장]\n- 운영 기간: 2026년 12월 31일까지\n- 이용 요금: 투숙객 무료 / 투숙객 외 1인 20,000원 (영유아 포함) (1박기준/현장결제)\n- 이용 시간: 입실후~20:00\n※ 7~8월 22:00까지 연장 운영\n- 이용 복장: 수영복, 래쉬가드 필수 착용 (면소재 착용 불가)\n- 수영장 크기: 15m x 5m\n- 온도: 온수\n※ 날씨가 영하로 내려갈 시 운영이 불가할 수 있습니다.\n※ 수영장 이용 원할 시 사전문의 필수 \n※ 하절기에는 냉수로 운영됩니다.\n※ 날씨에 따라 물 온도 조정\n※ 음식물 반입 금지, 다이빙 금지, 선크림 사용 금지\n※ 수영장 애견 입수 불가\n\n[애견동반]\n- 이용 요금: 1마리 20,000원 (1박기준/현장결제)\n- 이용 객실: 101호, 102호, 203호, 204호\n- 제한 무게: 7kg 미만 소형견\n- 제한 마릿수: 2마리까지\n- 애견 비품: 밥그릇 제공, 이 외 용품은 개인 지참\n- 반려동물 허용 종류: 제한없음\n※ 제한 견종 없음\n※ 사전 문의 및 상담 필수\n※ 개인 목줄 필수 지참\n※ 수영장 애견 입장 불가\n※ BBQ장 애견 동반 가능\n\n[ 애견 공용 운동장]\n- 펜션 앞 위치\n\n[편의 및 주변 시설]\n- 와이파이 보유\n- 엘레베이터 미보유\n- OTT 이용 가능\n※ 넷플릭스, 유튜브, 티빙, 웨이브, 디즈니+, 쿠팡플레이 이용 가능\n※ OTT 개인계정 필요\n- 화재감지기 보유 \n- 일산화탄소감지기 보유 \n- 상비약 보유\n- 정수기 보유\n\n[주차장]\n- 주차장 보유 \n- 주차 대수: 객실 당 1대\n- 전기차 충전기 이용 불가\n\n[교통편]\n[승용차 이용 시]\n※ 네비에 아래 주소를 검색하시면 됩니다.\n- 지번 주소 : 전남 여수시 돌산읍 평사리 1252-31\n- 도로명 주소 : 전남 여수시 돌산읍 계동로 523\n\n[대중교통 이용 시]\n- 여수 엑스포역-L 정류장  109, 111번 버스 승차  무슬목 정류장 하차  도보 522m 이동 (약 3분)  남해 바닷가 오페라하우스 펜션 도착\n\n[주변관광지]\n- 무슬목 해변 도보 3분\n- 돌산공원 차량 7분\n- 여수해상케이블카 차량 7분\n- 빅오쇼 차량 12분\n- 여수아쿠아플라넷 차량 12분\n- 이순신광장 차량 15분",
+    "usageGuide": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 오후 10시 이후 입실 시 사전문의 (필수)\n\n[인원추가정보]\n[연령기준]\n- 성인: 7세 이상\n- 아동: 24개월 이상~7세 미만\n- 유아: 24개월 미만\n\n[추가 요금]\n- 전객실\n- 요금: 성인 1인 20,000원, 아동 1인 10,000원, 유아 무료\n(1박기준/현장결제)\n※ 영유아 인원수 포함 / 최대인원 초과불가\n\n[개별바베큐]\n- 바베큐 형태: 숯불(실외), 자이글(실내)\n- 이용 객실: 전 객실 (101호, 102호, 103호, 201호, 202호, 203호, 204호)\n- 이용 요금: 자이글 대여: 10,000원(1객실당) / 숯불: 2-3인 기준 20,000원, 4-5인 30,000원 (숯 추가 10,000원) (1박기준/현장결제)\n- 신청 시간: ~20:00\n- 이용 시간: 입실후~22:00\n- 동계 시 이용 가능\n※ 우천 시 이용 문의\n※ 사전 문의 후 이용 가능\n\n[공용수영장]\n- 운영 기간: 2026년 12월 31일까지\n- 이용 요금: 투숙객 무료 / 투숙객 외 1인 20,000원 (영유아 포함) (1박기준/현장결제)\n- 이용 시간: 입실후~20:00\n※ 7~8월 22:00까지 연장 운영\n- 이용 복장: 수영복, 래쉬가드 필수 착용 (면소재 착용 불가)\n- 수영장 크기: 15m x 5m\n- 온도: 온수\n※ 날씨가 영하로 내려갈 시 운영이 불가할 수 있습니다.\n※ 수영장 이용 원할 시 사전문의 필수 \n※ 하절기에는 냉수로 운영됩니다.\n※ 날씨에 따라 물 온도 조정\n※ 음식물 반입 금지, 다이빙 금지, 선크림 사용 금지\n※ 수영장 애견 입수 불가\n\n[애견동반]\n- 이용 요금: 1마리 20,000원 (1박기준/현장결제)\n- 이용 객실: 101호, 102호, 203호, 204호\n- 제한 무게: 7kg 미만 소형견\n- 제한 마릿수: 2마리까지\n- 애견 비품: 밥그릇 제공, 이 외 용품은 개인 지참\n- 반려동물 허용 종류: 제한없음\n※ 제한 견종 없음\n※ 사전 문의 및 상담 필수\n※ 개인 목줄 필수 지참\n※ 수영장 애견 입장 불가\n※ BBQ장 애견 동반 가능\n\n[ 애견 공용 운동장]\n- 펜션 앞 위치\n\n[편의 및 주변 시설]\n- 와이파이 보유\n- 엘레베이터 미보유\n- OTT 이용 가능\n※ 넷플릭스, 유튜브, 티빙, 웨이브, 디즈니+, 쿠팡플레이 이용 가능\n※ OTT 개인계정 필요\n- 화재감지기 보유 \n- 일산화탄소감지기 보유 \n- 상비약 보유\n- 정수기 보유\n\n[주차장]\n- 주차장 보유 \n- 주차 대수: 객실 당 1대\n- 전기차 충전기 이용 불가\n\n[교통편]\n[승용차 이용 시]\n※ 네비에 아래 주소를 검색하시면 됩니다.\n- 지번 주소 : 전남 여수시 돌산읍 평사리 1252-31\n- 도로명 주소 : 전남 여수시 돌산읍 계동로 523\n\n[대중교통 이용 시]\n- 여수 엑스포역-L 정류장  109, 111번 버스 승차  무슬목 정류장 하차  도보 522m 이동 (약 3분)  남해 바닷가 오페라하우스 펜션 도착\n\n[주변관광지]\n- 무슬목 해변 도보 3분\n- 돌산공원 차량 7분\n- 여수해상케이블카 차량 7분\n- 빅오쇼 차량 12분\n- 여수아쿠아플라넷 차량 12분\n- 이순신광장 차량 15분",
     "reservationGuide": "",
     "province": "도/시",
     "city": "시/군/구",
@@ -418,7 +418,7 @@
           {
             "id": "6d104c78-afe5-4d61-9279-557a0180435e",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/AUbEz9l5CO8i.jpg",
-            "sortOrder": 1,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -428,7 +428,7 @@
           {
             "id": "f6b51dfc-eb8b-453f-aa2d-bcab80ddad7a",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/QAPvpf2bEJlw.jpg",
-            "sortOrder": 2,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -436,7 +436,7 @@
           {
             "id": "941ec39f-19f0-46bd-ba70-1c3c61dadfcc",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/M0pgy2rjEmtZ.jpg",
-            "sortOrder": 3,
+            "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -444,7 +444,7 @@
           {
             "id": "77738b88-e184-4d2c-99a6-207bf5ccd234",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/8OiBrbhE9TA0.jpg",
-            "sortOrder": 4,
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -452,7 +452,7 @@
           {
             "id": "465f1538-9a1d-42a0-aa15-77c4ef54d642",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/4wbnJEaHmog7.jpg",
-            "sortOrder": 5,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -460,7 +460,7 @@
           {
             "id": "3ed5b2d9-f22c-4c02-82a5-667c2a5fcafc",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/MwfyjnJG3aCk.jpg",
-            "sortOrder": 6,
+            "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -468,7 +468,7 @@
           {
             "id": "d8bd9e36-d21c-4e30-9ef4-202689227ffe",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/aYRmLrXD8gKs.jpg",
-            "sortOrder": 7,
+            "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -476,7 +476,7 @@
           {
             "id": "9eb01bbb-9b2b-471f-90c2-b8f86b62302b",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/PDtW3aZ5clyM.jpg",
-            "sortOrder": 8,
+            "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -484,7 +484,7 @@
           {
             "id": "ecb363b7-8e8a-437b-b5b2-68d6efbbdb0a",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/CcSB4XWJjdqv.jpg",
-            "sortOrder": 9,
+            "sortOrder": 7,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -492,7 +492,7 @@
           {
             "id": "9dc82f1a-4762-4530-8265-4c3444fc947a",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/0quVLYXMC4O3.jpg",
-            "sortOrder": 10,
+            "sortOrder": 8,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -500,7 +500,7 @@
           {
             "id": "f2cb21f4-3cf1-4dde-93e2-01b196ea430f",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/RSLqIO7XM2hF.jpg",
-            "sortOrder": 11,
+            "sortOrder": 9,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -508,7 +508,7 @@
           {
             "id": "3e418012-629f-443c-b00b-369b6abcc054",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/1h9oESrFtxDk.jpg",
-            "sortOrder": 12,
+            "sortOrder": 10,
             "description": "",
             "isSelected": true,
             "blockId": null
